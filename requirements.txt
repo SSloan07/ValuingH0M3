@@ -1,0 +1,9 @@
+matplotlib
+pandas
+ipykernel
+scikit-learn
+seaborn
+statsmodels
+Jinja2
+ydata-profiling[notebook]
+setuptools
